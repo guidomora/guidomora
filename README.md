@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guido</h1>
-<h3 align="center">frontend developer from Argentina</h3>
+<h3 align="center">Fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 Web portfolio [https://portafolio-bay-xi.vercel.app/](https://portafolio-bay-xi.vercel.app/)
 
