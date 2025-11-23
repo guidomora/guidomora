@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guido</h1>
-<h3 align="center">Fullstack developer from Argentina</h3>
+<h3 align="center">Fullstack developer (backend focus) from Argentina</h3>
 
 
 - 👨‍💻 Web portfolio [https://portafolio-bay-xi.vercel.app/](https://portafolio-bay-xi.vercel.app/)
