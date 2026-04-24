@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guido</h1>
-<h3 align="center">Backend-focused Fullstack Developer from Argentina 🇦🇷</h3>
+<h3 align="center">Backend-focused Fullstack Engineer from Argentina 🇦🇷</h3>
 
 <p align="center">
   I enjoy building scalable backend systems, AI-powered tools, and real-world products.
