@@ -9,7 +9,7 @@
 
 ### 🚀 About me
 
-- 👨‍💻 Backend Developer (Node.js, NestJS, .NET)
+- 👨‍💻 Backend Developer (Node.js, NestJS, Python)
 - 🧠 Exploring **AI Agents & LLM integrations**
 - 🤖 Building an **AI-powered WhatsApp agent**
 - ⚙️ Experience with **microservices & hexagonal architecture**
