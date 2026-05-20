@@ -71,11 +71,3 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guidomora&layout=compact" />
-</p>
